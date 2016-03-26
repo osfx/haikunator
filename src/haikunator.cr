@@ -1,5 +1,13 @@
 require "./haikunator/*"
 
 module Haikunator
-  # TODO Put your code here
+  def self.haikunate(range=4096, delimiter = "-")
+    Base.new.build(range, delimiter)
+  end
 end
+
+
+
+
+
+Haikunator.haikunate(999)
