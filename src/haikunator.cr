@@ -5,9 +5,3 @@ module Haikunator
     Base.new.build(range, delimiter)
   end
 end
-
-
-
-
-
-Haikunator.haikunate(999)
