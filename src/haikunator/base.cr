@@ -1,11 +1,9 @@
-# NOTE: 63 Is a magic number
-# unless adjectives and nouns array has 63 element
 
 class Base
   def build(range, delimiter)
     result = Array(String | String | Int32).new
-    result << adjectives[rand(63)]
-    result << nouns[rand(63)]
+    result << adjectives[rand(adjectives.size)]
+    result << nouns[rand(nouns.size)]
     if range != 0
       result << rand(range)
     end

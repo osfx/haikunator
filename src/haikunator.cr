@@ -5,3 +5,5 @@ module Haikunator
     Base.new.build(range, delimiter)
   end
 end
+
+puts Haikunator.haikunate
