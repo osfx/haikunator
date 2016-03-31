@@ -53,6 +53,35 @@ TODO: Write development instructions here
 4. Push to the branch (git push origin my-new-feature)
 5. Create a new Pull Request
 
-## Contributors
+## Language Ports
+
+Haikunator based on [Usman Bashir](https://github.com/usmanbashir) awesome gem and also have ports to other languages. 
+
+- Ruby:
+  - [Haikunator](https://github.com/usmanbashir/haikunator)
+- Go:
+  - [Go-Haikunator](https://github.com/yelinaung/go-haikunator)
+  - [Haikunator](https://github.com/gjohnson/haikunator)
+  - [Haikunator](https://github.com/taion809/haikunator)
+- JavaScript:
+  - [HaikunatorJS](https://github.com/Atrox/haikunatorjs)
+- Python:
+  - [PyHaikunator](https://github.com/ferhatelmas/pyhaikunator)
+  - [HaikunatorPy](https://github.com/Atrox/haikunatorpy)
+- PHP:
+  - [HaikunatorPHP](https://github.com/Atrox/haikunatorphp)
+- Elixir:
+  - [Haikunator](https://github.com/knrz/Haikunator)
+- .NET:
+  - [Haikunator.NET](https://github.com/Atrox/haikunator.net)
+- Java:
+  - [HaikunatorJAVA](https://github.com/Atrox/haikunatorjava)
+- Dart:
+  - [HaikunatorDART](https://github.com/Atrox/haikunatordart)
+- Rust
+  - [rust-haikunator](https://github.com/nishanths/rust-haikunator)
+
+
+## Maintainer
 
 - [[Peter Boriskin]](https://github.com/sanata-) # - creator, maintainer
