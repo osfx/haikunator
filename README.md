@@ -44,7 +44,7 @@ TODO: Write usage instructions here
 ## Development
 
 ### To run tests
-`crystal run spec/haikunator_spec.cr`
+`crystal spec`
 
 ## Contributing
 
