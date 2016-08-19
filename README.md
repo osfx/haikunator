@@ -43,7 +43,8 @@ TODO: Write usage instructions here
 
 ## Development
 
-TODO: Write development instructions here
+### To run tests
+`crystal run spec/haikunator_spec.cr`
 
 ## Contributing
 
@@ -55,7 +56,7 @@ TODO: Write development instructions here
 
 ## Language Ports
 
-Haikunator based on [Usman Bashir](https://github.com/usmanbashir) awesome gem and also have ports to other languages. 
+Haikunator based on [Usman Bashir](https://github.com/usmanbashir) awesome gem and also have ports to other languages.
 
 - Ruby:
   - [Haikunator](https://github.com/usmanbashir/haikunator)
