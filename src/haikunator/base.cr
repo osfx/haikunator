@@ -7,7 +7,7 @@ class Base
     if range != 0
       result << rand(range)
     end
-    puts result.join(delimiter)
+    result.join(delimiter)
   end
 
 
