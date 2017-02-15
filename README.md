@@ -85,4 +85,4 @@ Haikunator based on [Usman Bashir](https://github.com/usmanbashir) awesome gem a
 
 ## Maintainer
 
-- [[Peter Boriskin]](https://github.com/osfx # - creator, maintainer
+- [[Peter Boriskin]](https://github.com/osfx) # - creator, maintainer
