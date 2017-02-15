@@ -11,7 +11,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   haikunator:
-    github: sanata-/haikunator
+    github: osfx/haikunator
 ```
 
 
